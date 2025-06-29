@@ -1,6 +1,8 @@
 # seekhelpers
 
-A new Flutter project.
+To run this project simply run the below command in terminal where your project is located.
+
+flutter run 
 
 ## Getting Started
 
